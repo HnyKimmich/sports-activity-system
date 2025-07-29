@@ -4,11 +4,9 @@
 
 ## 🌐 项目地址
 
-- **前端代码库**: [https://github.com/your-username/sports-activity-frontend](https://github.com/your-username/sports-activity-frontend)
-- **后端代码库**: [https://github.com/your-username/sports-activity-backend](https://github.com/your-username/sports-activity-backend)
-- **完整项目**: [https://github.com/your-username/sports-activity-system](https://github.com/your-username/sports-activity-system)
-
-> 📝 **注意**: 请将上述链接中的 `your-username` 替换为你的实际GitHub用户名
+- **前端代码库**: [https://github.com/HnyKimmich/sports-activity-system/tree/main/src]
+- **后端代码库**: [https://github.com/HnyKimmich/sports-activity-system/tree/main/server]
+- **完整项目**: [https://github.com/HnyKimmich/sports-activity-system]
 
 ## 💻 支持平台
 
