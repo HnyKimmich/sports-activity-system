@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1752738979977,
+    "title": "软院训练",
+    "type": "足球",
+    "location": "体育场",
+    "startTime": "2025-07-30T10:00",
+    "duration": "2小时",
+    "requiredPeople": 8,
+    "pricePerPerson": 20,
+    "description": "欢迎软件学院的同学们一起来踢足球！这是一个友谊赛，主要目的是锻炼身体、增进友谊。请大家穿好运动鞋，带好水瓶。",
+    "registeredCount": 2,
+    "registeredUsers": [
+      {
+        "username": "何念一喔",
+        "email": "241250065@smail.nju.edu.cn"
+      },
+      {
+        "username": "何涛",
+        "email": "2163749128@qq.com"
+      }
+    ]
+  },
+  {
+    "id": 1753429174444,
+    "title": "羽毛球约球",
+    "type": "羽毛球",
+    "location": "羽毛球场",
+    "startTime": "2025-08-16T15:00",
+    "duration": "1小时",
+    "requiredPeople": "2",
+    "pricePerPerson": "10",
+    "image": "/activities/images/1753429174440.png",
+    "registeredCount": 1,
+    "registeredUsers": [
+      {
+        "username": "kitsu",
+        "email": "kitsu@qq.com"
+      }
+    ]
+  }
+]

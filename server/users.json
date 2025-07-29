@@ -1,0 +1,42 @@
+[
+  {
+    "username": "何念一喔",
+    "password": "hetao777",
+    "email": "241250065@smail.nju.edu.cn",
+    "gender": "男",
+    "age": "19",
+    "sport": "足球",
+    "signature": "焦虑是自由的眩晕",
+    "avatar": "/1752746432728.jpg",
+    "createdActivities": [
+      1752738979977
+    ],
+    "registeredActivities": []
+  },
+  {
+    "username": "kitsu",
+    "password": "kitsu",
+    "email": "kitsu@qq.com",
+    "gender": "男",
+    "age": "20",
+    "sport": "羽毛球",
+    "signature": "1/20 at the place where are you",
+    "avatar": "/1753427774407.jpg",
+    "createdActivities": [
+      1753429174444
+    ],
+    "registeredActivities": []
+  },
+  {
+    "username": "梦染星华",
+    "password": "mrxh",
+    "email": "mrxh@qq.com",
+    "gender": "女",
+    "age": "19",
+    "sport": "足球",
+    "signature": "It is time",
+    "avatar": "/1753429400954.jpg",
+    "createdActivities": [],
+    "registeredActivities": []
+  }
+]

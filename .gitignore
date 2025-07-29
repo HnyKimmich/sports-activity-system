@@ -1,0 +1,47 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# User uploaded files (you may want to keep sample files but ignore user uploads)
+server/avatars/*.jpg
+server/avatars/*.png
+server/activities/images/*.jpg
+server/activities/images/*.png
+
+# Keep sample data structure but ignore actual user data
+# Uncomment these if you don't want to commit user data:
+# server/users.json
+# server/activities.json
+# server/comments.json
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
